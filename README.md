@@ -68,7 +68,7 @@ Best regards!!!<br>
 </div>
 <h1 style="font-size:42px" align="center">Contact me</h1>
 <h4>
-<b>Gmail</b>: linodeBp18@gmail.com<br>
+<b>Gmail</b>: erbaghdasaryan95@gmail.com<br>
 <b>skype</b>: live:.cid.55a1e69b0e6d37e3
 <img align="right" src="https://komarev.com/ghpvc/?username=webmaster1116"/>
   

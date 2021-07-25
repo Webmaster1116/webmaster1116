@@ -62,8 +62,8 @@ Best regards!!!<br>
 </div>
 <h1 style="font-size:42px" align="center">Contact me</h1>
 <h4>
-[![Gmail Badge](https://img.shields.io/badge/-linodeBp18@gmail.com-c14438?style=flat-squarel&logo=gmail&logoColor=white&link=mailto:linodeBp18@gmail.com)](mailto:linodeBp18@gmail.com)
-[![Outlook main Badge](https://img.shields.io/badge/-linodeBp18@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:linodeBp18@gmail.com)](mailto:linodeBp18@gmail.com)
+Gmail: linodeBp18@gmail.com
+skype: live:.cid.55a1e69b0e6d37e3
 <img align="right" src="https://komarev.com/ghpvc/?username=webmaster1116"/>
   
 </h4>

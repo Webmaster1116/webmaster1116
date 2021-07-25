@@ -40,6 +40,12 @@ Best regards!!!<br>
     <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
+
+<p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=webmaster1116&count_private=true&show_icons=true&hide_title=true" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=webmaster1116&layout=compact&theme=vue" style="min-width:800px"/>
+</p>
+
 <div align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
@@ -62,8 +68,8 @@ Best regards!!!<br>
 </div>
 <h1 style="font-size:42px" align="center">Contact me</h1>
 <h4>
-Gmail: linodeBp18@gmail.com
-skype: live:.cid.55a1e69b0e6d37e3
+<b>Gmail</b>: linodeBp18@gmail.com<br>
+<b>skype</b>: live:.cid.55a1e69b0e6d37e3
 <img align="right" src="https://komarev.com/ghpvc/?username=webmaster1116"/>
   
 </h4>

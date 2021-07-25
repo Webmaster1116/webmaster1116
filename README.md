@@ -6,12 +6,12 @@
 With 7+ years of full-stack web development experience for global businesses, I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT. Since earning my bachelor's degree in internet and web development from University, I have served as developer, designer. In this position, I have led web and mobile development projects for clients in diverse industries including technology, manufacturing, pharmaceutical, hospitality, F&B, retail and financial services. 
 
 My Experties :
-✨ React / Angular / Vue / Next 
-✨ blockchain(ethereum) / smart contract / transaction / encrypt wallet / erc20/erc721
-✨ PHP / Laravel / Python / Django / Flask /Ipynb - Ruby on Rails
-✨ Wordpress / Shopify
-✨ MongoDB / Oracle / PostgreSQL / MSSQL 
-✨ Azure / AWS / WMS / Docker / Kubermete
+✨ React / Angular / Vue / Next <br>
+✨ blockchain(ethereum) / smart contract / transaction / encrypt wallet / erc20/erc721<br>
+✨ PHP / Laravel / Python / Django / Flask /Ipynb - Ruby on Rails<br>
+✨ Wordpress / Shopify<br>
+✨ MongoDB / Oracle / PostgreSQL / MSSQL <br>
+✨ Azure / AWS / WMS / Docker / Kubermete<br>
 
 Why me?
 • I will deliver you on time with full satisfaction.

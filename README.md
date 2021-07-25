@@ -68,6 +68,7 @@ Best regards!!!<br>
 </div>
 <h1 style="font-size:42px" align="center">Contact me</h1>
 <h4>
+   [![Gmail Badge](https://img.shields.io/badge/-toptalent130@gmail.com-c14438?style=flat-squarel&logo=gmail&logoColor=white&link=mailto:toptalent130@gmail.com)](mailto:toptalent130@gmail.com)
 <b>Gmail</b>: linodeBp18@gmail.com<br>
 <b>skype</b>: live:.cid.55a1e69b0e6d37e3
 <img align="right" src="https://komarev.com/ghpvc/?username=webmaster1116"/>

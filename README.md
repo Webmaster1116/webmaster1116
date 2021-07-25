@@ -3,9 +3,9 @@
    <!-- <h2>I just started work.</h2> -->
 </div>
 
-With 7+ years of full-stack web development experience for global businesses, I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT. Since earning my bachelor's degree in internet and web development from University, I have served as developer, designer. In this position, I have led web and mobile development projects for clients in diverse industries including technology, manufacturing, pharmaceutical, hospitality, F&B, retail and financial services. 
+With 7+ years of full-stack web development experience for global businesses, I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT. Since earning my bachelor's degree in internet and web development from University, I have served as developer, designer. In this position, I have led web and mobile development projects for clients in diverse industries including technology, manufacturing, pharmaceutical, hospitality, F&B, retail and financial services. <br>
 
-My Experties :
+My Experties :<br><br>
 ✨ React / Angular / Vue / Next <br>
 ✨ blockchain(ethereum) / smart contract / transaction / encrypt wallet / erc20/erc721<br>
 ✨ PHP / Laravel / Python / Django / Flask /Ipynb - Ruby on Rails<br>
@@ -13,10 +13,10 @@ My Experties :
 ✨ MongoDB / Oracle / PostgreSQL / MSSQL <br>
 ✨ Azure / AWS / WMS / Docker / Kubermete<br>
 
-Why me?
-• I will deliver you on time with full satisfaction.
+Why me?<br>
+I will deliver you on time with full satisfaction.<br>
 
-Best regards!!!
+Best regards!!!<br>
 
 
 <!-- <h1 align="center">Run! Danil! Run!!!!<h1><br/> -->
@@ -68,6 +68,23 @@ skype: live:.cid.55a1e69b0e6d37e3
 </h4>
 
 <br> 
+
+<div align="center">
+  <!-- <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/visits/webmaster1116/webmaster1116?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/years/webmaster1116?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/repos/webmaster1116?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/gists/webmaster1116?style=flat-square&color=black&logo=github">
+  </a>
+   -->
+   <img src="https://github-profile-trophy.vercel.app/?username=webmaster1116&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
+</div>
 
 
 <!-- It is https://yhype.me/ views count tracker, please remove it or use your own -->

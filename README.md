@@ -41,10 +41,10 @@ Best regards!!!<br>
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
 
-<p align="center">
+<!-- <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GlistenSTAR&count_public=true&show_icons=true&hide_title=true" />
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GlistenSTAR&layout=compact&theme=vue" style="min-width:800px"/>
-</p>
+</p> -->
 
 <div align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>

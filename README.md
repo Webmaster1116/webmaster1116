@@ -90,7 +90,7 @@ Best regards!!!<br>
     <img src="https://badges.pufler.dev/gists/webmaster1116?style=flat-square&color=black&logo=github">
   </a>
    -->
-   <img src="https://github-profile-trophy.vercel.app/?username=webmaster1116&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
+<!--    <img src="https://github-profile-trophy.vercel.app/?username=webmaster1116&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" /> -->
 </div>
 
 

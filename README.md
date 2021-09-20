@@ -3,7 +3,7 @@
    <!-- <h2>I just started work.</h2> -->
 </div>
 
-With 7+ years of full-stack web development experience for global businesses, I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT. <br>
+With 10+ years of full-stack web development experience for global businesses, I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT. <br>
 Since earning my bachelor's degree in internet and web development from University, I have served as developer, designer. In this position, I have led web and mobile development projects for clients in diverse industries including technology, manufacturing, pharmaceutical, hospitality, F&B, retail and financial services. <br><br>
 
 My skills are: <br>

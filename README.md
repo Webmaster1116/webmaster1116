@@ -3,18 +3,33 @@
    <!-- <h2>I just started work.</h2> -->
 </div>
 
-With 7+ years of full-stack web development experience for global businesses, I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT. Since earning my bachelor's degree in internet and web development from University, I have served as developer, designer. In this position, I have led web and mobile development projects for clients in diverse industries including technology, manufacturing, pharmaceutical, hospitality, F&B, retail and financial services. <br>
+With 7+ years of full-stack web development experience for global businesses, I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT. <br>
+Since earning my bachelor's degree in internet and web development from University, I have served as developer, designer. In this position, I have led web and mobile development projects for clients in diverse industries including technology, manufacturing, pharmaceutical, hospitality, F&B, retail and financial services. <br><br>
 
-My Experties :<br><br>
-✨ React / Angular / Vue / Next <br>
-✨ blockchain(ethereum) / smart contract / transaction / encrypt wallet / erc20/erc721<br>
-✨ PHP / Laravel / Python / Django / Flask /Ipynb - Ruby on Rails<br>
-✨ Wordpress / Shopify<br>
-✨ MongoDB / Oracle / PostgreSQL / MSSQL <br>
-✨ Azure / AWS / WMS / Docker / Kubermete<br>
+My skills are: <br>
+   - Javascript, ES6/ES7, Typescript<br>
+   - React.js with Redux, React Hooks, Styled Components <br>
+   - TypeORM, Sequelize for ORM<br>
+   - TDD(Test Driven Dev) with Unit Test(Jest, Enzyme, Mocha, Chai), E2E test(Cypress), Sentry.io<br>
+   - Gatsby, Next.js for contentful & SSR<br>
+   - Laravel MVC pattern, ExpressJS, Python/Django, ASP.NET, C# <br>
+   - Vue, Angular, AngularJS <br>
+   - MySQL, MongoDB, NoSQL, PostgreSQL, MariaDB, MSSQL, DB Optimization, SQL programming, DB Design<br>
+   - Tailwind CSS, Material UI/Kit, Ant Design, SCSS<br>
+   - Git, Git-flow, Github, Bitbucket, Gitlab <br>
+   - CircleCI, TravisCI for CI/CD<br>
+   - Azure / AWS / WMS / Docker / Kubermete<br><br>
 
-Why me?<br>
-I will deliver you on time with full satisfaction.<br>
+My abilities are: <br>
+   - 40+ hours work per week,<br>
+   - Available to start work immediately <br>
+   - Clean and Efficient code <br>
+   - Daily update using Git <br>
+   - Positive attitude, Hard Working, Quick Learning <br><br>
+
+My aim is to provide quality, reliability, and agility to my clients. <br>
+My Skills are not limited to technology. <br>
+I am always curious to work in any new technology or work offered by clients. <br><br>
 
 Best regards!!!<br>
 

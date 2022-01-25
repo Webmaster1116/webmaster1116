@@ -4,9 +4,12 @@
 </div>
 
 With 10+ years of full-stack web development experience for global businesses, I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT. <br>
-Since earning my bachelor's degree in internet and web development from University, I have served as developer, designer. In this position, I have led web and mobile development projects for clients in diverse industries including technology, manufacturing, pharmaceutical, hospitality, F&B, retail and financial services. <br><br>
+Since earning my master's degree in computer science from University, I have served as a developer. In this position, I have led web and mobile development projects for clients in diverse industries including technology, manufacturing, pharmaceutical, hospitality, F&B, retail and financial services. <br>
+Also, I've worked many blockchain projects using Solana, Rust, Ethereum from 3 years before.
+<br><br>
 
 My skills are: <br>
+   - Ethereum, Solidity, Algorand, Reach, Smart contract, Solana, Rust, NFT, web3, Polygon<br>
    - Javascript, ES6/ES7, Typescript<br>
    - React.js with Redux, React Hooks, Styled Components <br>
    - TypeORM, Sequelize for ORM<br>

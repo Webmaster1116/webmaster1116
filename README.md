@@ -1,11 +1,11 @@
 <div align="center">
-   <h1> Senior blockchain & full-stack DEV <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+   <h1> Senior blockchain & full-stack DEV </h1>
    <!-- <h2>I just started work.</h2> -->
 </div>
 
 With 10+ years of full-stack web development experience for global businesses, I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT. <br>
 Since earning my master's degree in computer science from University, I have served as a developer. In this position, I have led web and mobile development projects for clients in diverse industries including technology, manufacturing, pharmaceutical, hospitality, F&B, retail and financial services. <br>
-Also, I've worked many blockchain projects using Solana, Rust, Ethereum from 3 years before.
+Recently, I've worked on many NFT projects so taken part in Solidity, Ethereum, web3 integration, React minting websites development.
 <br><br>
 
 My skills are: <br>
